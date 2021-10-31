@@ -1,7 +1,5 @@
 import pickle
 
-#doc_new = ['obama is running for president in 2016']
-
 var = input("Please enter the news text you want to verify: ")
 print("You entered: " + str(var))
 
