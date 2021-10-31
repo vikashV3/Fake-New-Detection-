@@ -6,13 +6,11 @@ Name - Ayush Gupta
 Reg No - RA1811003010438
 Dept. – CSE (Core)
 Section - H1
-College - SRM Institute of Science and Technology
 
 Name -Vikash Mishra
 Reg No - RA1811003010344
 Dept. – CSE (Core)
 Section - F1 
-College - SRM Institute of Science and Technology 
 
 ### Introduction 
 
