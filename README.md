@@ -80,3 +80,8 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 * Barely-true	-- 	False
 * False		-- 	False
 * Pants-fire	-- 	False
+
+### File descriptions
+
+#### FeatureSelection.py
+In this file we have performed feature extraction and selection methods from sci-kit learn python libraries. For feature selection, we have used methods like simple bag-of-words and n-grams and then term frequency like tf-tdf weighting. we have also used word2vec and POS tagging to extract the features, though POS tagging and word2vec has not been used at this point in the project.
