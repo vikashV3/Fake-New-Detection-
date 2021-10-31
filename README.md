@@ -1,6 +1,26 @@
 # Fake-New-Detection 
-  
-  
+
+### Members
+
+Name - Ayush Gupta 
+Reg No - RA1811003010438
+Dept. – CSE (Core)
+Section - H1
+College - SRM Institute of Science and Technology
+
+Name -Vikash Mishra
+Reg No - RA1811003010344
+Dept. – CSE (Core)
+Section - F1 
+College - SRM Institute of Science and Technology 
+
+### Introduction 
+
+Fake news / False information is often being circulated to people who become a victim to such fake and misleading information. This actions are always harmful in one and another way and should be avoided.
+As a solution , fact-checking and knowing the source of news if it is trustable is a big concern and it the root of the problem.
+
+Thus we required a solution feasible and quickly accessible to all generation of society , be it old , the younger generation. So we came up with the idea of Fake news Detector , which checks the reliability of a news as to whether it is fake or real 
+
 ### Prerequisites
 
 What things you need to install the software and how to install them:
