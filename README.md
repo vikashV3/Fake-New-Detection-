@@ -14,6 +14,7 @@ As a solution , fact-checking and knowing the source of news if it is trustable 
 
 Thus we required a solution feasible and quickly accessible to all generation of society , be it old , the younger generation. So we came up with the idea of Fake news Detector , which checks the reliability of a news as to whether it is fake or real 
 
+
 ### Prerequisites
 
 What things you need to install the software and how to install them:
