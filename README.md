@@ -87,6 +87,7 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 #### prediction.py
 Our finally selected and best performing classifier was ```Logistic Regression``` which was then saved on disk with name ```final_model.sav```. Once you close this repository, this model will be copied to user's machine and will be used by prediction.py file to classify the fake news. It takes an news article as input from user then model is used for final classification output that is shown to user along with probability of truth.
 
+
 <p align="center">
   <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Image.png">
 </p>
