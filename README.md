@@ -2,15 +2,8 @@
 
 ### Members
 
-Name - Ayush Gupta 
-Reg No - RA1811003010438
-Dept. – CSE (Core)
-Section - H1
-
-Name -Vikash Mishra
-Reg No - RA1811003010344
-Dept. – CSE (Core)
-Section - F1 
+Ayush Gupta RA1811003010438 CSE (Core) H1 Section 
+Vikash Mishra RA1811003010344 CSE (Core) F1 Section
 
 ### Introduction 
 
