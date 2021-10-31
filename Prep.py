@@ -17,7 +17,6 @@ train_filename = 'train.csv'
 
 train_news = pd.read_csv(train_filename)
 test_news = pd.read_csv(test_filename)
-valid_news = pd.read_csv(valid_filename)
 
 
 
