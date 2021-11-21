@@ -93,5 +93,5 @@ Our finally selected and best performing classifier was ```Logistic Regression``
 
 
 <p align="center">
-  <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Image.png">
+  <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/image.jpg">
 </p>
