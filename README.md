@@ -86,14 +86,14 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 ### Test Dataset 
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/test.PNG">
+  <img width="600" height="300" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/test.PNG">
 </p>
 
 
 ### Test Dataset 
 
 <p align="center">
-  <img width="600" height="250" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/train.PNG">
+  <img width="600" height="300" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/train.PNG">
 </p>
 
 
