@@ -82,6 +82,21 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 * False		-- 	False
 * Pants-fire	-- 	False
 
+
+### Test Dataset 
+
+<p align="center">
+  <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/test.jpg">
+</p>
+
+
+### Test Dataset 
+
+<p align="center">
+  <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/train.jpg">
+</p>
+
+
 ### File descriptions
 
 
