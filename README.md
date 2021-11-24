@@ -108,7 +108,7 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 </p>
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/RandomForest.PNG">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/RandomForest.PNG">
 </p>
 
 ### Block Diagram 
