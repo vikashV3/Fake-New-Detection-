@@ -198,3 +198,4 @@ What are the advanced methods to ensemble:
 1.Bagging 
 2.Blending
 3.Stacking
+4.Boosting
