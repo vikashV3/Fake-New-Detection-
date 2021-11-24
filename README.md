@@ -118,6 +118,8 @@ This file contains all the pre processing functions needed to process all input 
 
 ### Logistic Regression 
 
+Logistic Regression Logistic Regression is a parametric classifier which is easy to train and has low variance. The feature sampling probability is adapted according to the predictive performance and the weights of the logistic regression. 
+
 <p align="center">
   <img width="600" height="50" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Accuracy2.PNG">
 </p>
