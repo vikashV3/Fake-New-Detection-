@@ -108,6 +108,8 @@ The hard voting type is applied to predicted class labels for majority rule voti
 
 The soft voting, predicts the class label based on the sums of the predicted probabilities of the individual estimators that make up the ensemble. The soft voting is often recommended in the case of an ensemble of fitted classifiers.
 
+The performance of the voting classifier depends largely on the results of the base models. It is recommended to use well-fitted estimators as base models with the soft voting type, for better predictions.
+
 ### File descriptions
 
 #### DataPrep.py
