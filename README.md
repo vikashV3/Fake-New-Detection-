@@ -144,6 +144,8 @@ Unlike bagging, random forest also involves selecting a subset of input features
 
 ### Ensemble Technique 
 
+Ensemble methods use multiple learning algorithms to obtain better predictive performance than could be obtained from any of the constituent learning algorithms
+
 Two common methods to ensemble are:
 
 1.Averaging method - The principle is to build several estimators independently and then to average their predictions comparatively. The combined estimator is usually better than the single base estimator on averaging because the variance is reduced. Examples: Stacking methods, Forests of randomized trees,etc. 
