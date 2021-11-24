@@ -128,6 +128,12 @@ This file contains all the pre processing functions needed to process all input 
 
 ### Random Forest
 
+Random forest is an ensemble of decision tree algorithms and it is a natural extension of bagging.
+It is an extension of bootstrap aggregation (bagging) of decision trees and can be used for classification and regression problems.
+In bagging, a number of decision trees are created where each tree is created from a different sample of the training dataset. A bootstrap sample is a sample of the training dataset where a sample may appear more than once in the sample, referred to as sampling with replacement.
+
+Unlike bagging, random forest also involves selecting a subset of input features (columns or variables) at each split point in the construction of trees
+
 <p align="center">
   <img width="600" height="50" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Accuracy1.PNG">
 </p>
