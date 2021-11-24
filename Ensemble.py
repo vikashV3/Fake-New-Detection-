@@ -1,6 +1,6 @@
 #Ensemble Technique
 from sklearn.ensemble import VotingClassifier
-Ens = VotingClassifier( estimators= [('SVM',svc),('NB',nab),('Log',log),('raf',raf)], voting = 'hard')
+Ens = VotingClassifier( estimators= [('Log',log),('raf',raf)], voting = 'hard')
 Ens= Ens.fit(X_train , y_train)
 Ens
 
