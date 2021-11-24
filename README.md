@@ -115,6 +115,11 @@ The performance of the voting classifier depends largely on the results of the b
 #### DataPrep.py
 This file contains all the pre processing functions needed to process all input documents and texts. First we read the train, test and validation data files then performed some pre processing like tokenizing, stemming etc. There are some exploratory data analysis is performed like response variable distribution and data quality checks like null or missing values etc.
 
+### Ensemble.py
+The file contains the code for ensemble model which is uses voting  classifier of logistic regression and random forest models.
+
+### EnsembleComparison.py
+The ensemble model which is used for comparision of logistic regression , random forest model and ensemble model are compared and results are showns accordingly.
 
 ### Logistic Regression 
 
