@@ -1,9 +1,6 @@
 #RANDOM FOREST ALGORITHM
 
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.naive_bayes import GaussianNB
-from sklearn.svm import LinearSVC
 
 raf=RandomForestClassifier(min_samples_leaf=20, min_samples_split=20,random_state=100)
 raf= raf.fit(X_train , y_train)
