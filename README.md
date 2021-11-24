@@ -96,12 +96,22 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
   <img width="600" height="300" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/train.PNG">
 </p>
 
+### Voting for unfitted estimators (Soft Voting/Majority Rule classifier)
+
+A voting ensemble is an ensemble machine learning model that combines the predictions from multiple other models. It is a technique that may be used to improve model performance, ideally achieving better performance than a single model used in the ensemble.
+
+The Voting Classifier
+
+The voting classifier works like an polling system in which a prediction on a data point is made based on a voting system of the members of a group of machine learning models. There are option of either soft voting or hard voting depending upon the usage and on user input.
+
+The hard voting type is applied to predicted class labels for majority rule voting. This uses the idea of vote for majority i.e. decisions is made in favor of whoever has more than half of the vote.
+
+The soft voting, predicts the class label based on the sums of the predicted probabilities of the individual estimators that make up the ensemble. The soft voting is often recommended in the case of an ensemble of fitted classifiers.
 
 ### File descriptions
 
 #### DataPrep.py
 This file contains all the pre processing functions needed to process all input documents and texts. First we read the train, test and validation data files then performed some pre processing like tokenizing, stemming etc. There are some exploratory data analysis is performed like response variable distribution and data quality checks like null or missing values etc.
-
 
 
 ### Logistic Regression 
@@ -125,6 +135,12 @@ This file contains all the pre processing functions needed to process all input 
 </p>
 
 ### Ensemble Technique 
+
+Two common methods to ensemble are:
+
+1.Averaging method - The principle is to build several estimators independently and then to average their predictions comparatively. The combined estimator is usually better than the single base estimator on averaging because the variance is reduced. Examples: Stacking methods, Forests of randomized trees,etc. 
+
+2.Boosting method - Base estimators are built sequentially and one tries to reduce the bias of the combined estimator. The idea is to combine several weak models to produce a powerful ensemble. Examples: AdaBoost, Gradient Tree Boosting, Extreme gradient boosting,etc. 
 
 <p align="center">
   <img width="600" height="50" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Accuracy3.PNG">
