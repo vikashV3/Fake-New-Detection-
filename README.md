@@ -172,7 +172,7 @@ Two common methods to ensemble are:
   <img width="600" height="750" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/image.png">
 </p>
 
-### Questionnaire
+### Questionnaire / FAQ 
 
 Advantages of using ensemble learning:
 The main advantages are that of performance and robustness. It reduces variance - the aggregate  of many models is less noisy than a single opinion of one of the models. It makes the final combined model less susceptible to given values corresponding to local minima.
