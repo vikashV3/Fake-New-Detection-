@@ -175,22 +175,26 @@ Two common methods to ensemble are:
 ### Questionnaire / FAQ 
 
 Advantages of using ensemble learning:
+
 The main advantages are that of performance and robustness. It reduces variance - the aggregate  of many models is less noisy than a single opinion of one of the models. It makes the final combined model less susceptible to given values corresponding to local minima.
-suppose after training we get 3 models m1, m2, and m3. these models are indistinguishable with respect to their training error and they might have different generalization performances.
-so a safe option would be to use them all and average their outputs.
+suppose after training we get 3 models m1, m2, and m3. these models are indistinguishable with respect to their training error and they might have different generalization performances.so a safe option would be to use them all and average their outputs.
 
 What are the common methods to ensemble: 
+
 1.Averaging method
 2.Boosting method
 
 What are the types of voting:
+
 1.Soft voting 
 2.Hard voting
 
 What are base classifiers:
+
 The base classifier gives an initial prediction of the target class.
 
 What are the advanced methods to ensemble:
+
 1.Bagging 
 2.Blending
 3.Stacking
