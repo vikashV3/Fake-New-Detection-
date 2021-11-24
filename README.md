@@ -99,6 +99,11 @@ You will see that newly created dataset has only 2 classes as compared to 6 from
 
 ### File descriptions
 
+#### DataPrep.py
+This file contains all the pre processing functions needed to process all input documents and texts. First we read the train, test and validation data files then performed some pre processing like tokenizing, stemming etc. There are some exploratory data analysis is performed like response variable distribution and data quality checks like null or missing values etc.
+
+
+
 ### Logistic Regression 
 
 <p align="center">
