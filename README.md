@@ -199,3 +199,6 @@ What are the advanced methods to ensemble:
 2.Blending
 3.Stacking
 4.Boosting
+
+What is XGBoosting:
+Extereme Gradient Boosting or XGBoosting is the latest algorithm used in machine learning and is in trend accordingly. XGBoost is a library for developing fast and high performance gradient boosting tree models. That XGBoost is achieving the best performance on a range of difficult machine learning tasks.
