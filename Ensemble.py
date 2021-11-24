@@ -1,3 +1,6 @@
+log  = LogisticRegression(C=2, max_iter=100)
+raf  = RandomForestClassifier(min_samples_leaf=10, min_samples_split=20,random_state=100)
+
 #Ensemble Technique
 from sklearn.ensemble import VotingClassifier
 Ens = VotingClassifier( estimators= [('Log',log),('raf',raf)], voting = 'hard')
