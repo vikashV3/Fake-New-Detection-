@@ -150,11 +150,11 @@ Unlike bagging, random forest also involves selecting a subset of input features
 </p>
 
 <p align="center">
-  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/rfprop.png">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/RandomForest.PNG">
 </p>
 
 <p align="center">
-  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/RandomForest.PNG">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/rfprop.png">
 </p>
 
 ### Ensemble Technique 
