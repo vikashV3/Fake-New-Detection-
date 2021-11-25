@@ -133,6 +133,10 @@ Logistic Regression Logistic Regression is a parametric classifier which is eas
   <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/LogisticRegression.PNG">
 </p>
 
+<p align="center">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/logisticprop.png">
+</p>
+
 ### Random Forest
 
 Random forest is an ensemble of decision tree algorithms and it is a natural extension of bagging.
@@ -143,6 +147,10 @@ Unlike bagging, random forest also involves selecting a subset of input features
 
 <p align="center">
   <img width="600" height="50" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Accuracy1.PNG">
+</p>
+
+<p align="center">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/rfprop.png">
 </p>
 
 <p align="center">
@@ -168,6 +176,10 @@ Two common methods to ensemble are:
 </p>
 
 <p align="center">
+  <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/ensembleprep.png">
+</p>
+
+<p align="center">ensembleprep
   <img width="600" height="200" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Result.png">
 </p>
 
