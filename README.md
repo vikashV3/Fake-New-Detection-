@@ -179,7 +179,7 @@ Two common methods to ensemble are:
   <img width="600" height="350" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/ensembleprep.png">
 </p>
 
-<p align="center">ensembleprep
+<p align="center">
   <img width="600" height="200" src="https://github.com/vikashV3/Fake-New-Detection-/blob/main/Result.png">
 </p>
 
